@@ -16,16 +16,11 @@ I'm a student from Electronics and Communication Engineering Department, working
 * Additional skills- Graphics Designing, Content Writing.
 * Still to learn a lot..
 
-- 🔭 I’m currently working on **[Covid-Face Mask Detector Project](https://www.linkedin.com/posts/saummya-singh-899126174_mitmuzaffarpur-mit-matlab-activity-6811733755905101824-rwpL)**
+- 🔭 Currently working on **[Covid-Face Mask Detector Project](https://www.linkedin.com/posts/saummya-singh-899126174_mitmuzaffarpur-mit-matlab-activity-6811733755905101824-rwpL)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
 
-</details>
 
 
 
