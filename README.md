@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ### Hi there 👋
 ### This is SAUMMYA SINGH
@@ -19,6 +19,13 @@ I'm a student from Electronics and Communication Engineering Department, working
 - 🔭 I’m currently working on **[Covid-Face Mask Detector Project](https://www.linkedin.com/posts/saummya-singh-899126174_mitmuzaffarpur-mit-matlab-activity-6811733755905101824-rwpL)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+
+</details>
 
 
 
