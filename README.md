@@ -1,7 +1,7 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ### Hi there 👋
-### This is SAUMMYA SINGH
+# This is SAUMMYA SINGH
 📫 Mail me @ **saumya.s0206@gmail.com**
 
 
