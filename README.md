@@ -14,7 +14,7 @@ I'm a student from Electronics and Communication Engineering Department, working
 * Additional skills- Graphics Designing, Content Writing.
 * Still to learn a lot..
 
-- 🔭 Currently working on **[Covid-Face Mask Detector Project](https://www.linkedin.com/posts/saummya-singh-899126174_mitmuzaffarpur-mit-matlab-activity-6811733755905101824-rwpL)**
+- 🔭 Project- **[Covid-Face Mask Detector Project](https://www.linkedin.com/posts/saummya-singh-899126174_mitmuzaffarpur-mit-matlab-activity-6811733755905101824-rwpL)**
 
 
 
