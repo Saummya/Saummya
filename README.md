@@ -29,7 +29,7 @@ I'm a student from Electronics and Communication Engineering Department, working
 ## Connect with me:
 <p >
 
-<a href = "https://www.linkedin.com/in/saummya-singh-899126174/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href = "https://www.instagram.com/shinning_sta_r_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/saummya-singh-899126174/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href = "https://www.instagram.com/shinning_sta_r_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>  <a href = "https://twitter.com/SaummyaSingh5"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
     
 
 
