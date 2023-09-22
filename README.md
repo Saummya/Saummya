@@ -6,7 +6,7 @@
 
 
 
-Working Professional /
+Working Professional \
 Currently employed at Infosys Limited as a Digital Specialist Engineer /
 Student from Electronics and Communication Engineering Department /
 Working on some good skills to enhance my professional and technical capabilities and knowledge to be a part of an organization that recognizes the value of hard work and trusts me with responsibilities and challenges./ 
