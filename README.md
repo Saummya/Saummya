@@ -6,16 +6,16 @@
 
 
 
-Working Professional | Currently employed at Infosys Limited as a Digital Specialist Engineer |
+Hi! I am a Working Professional, Currently employed at Infosys Limited as a Digital Specialist Engineer 
 Student from Electronics and Communication Engineering Department 
 Working on some good skills to enhance my professional and technical capabilities and knowledge to be a part of an organization that recognizes the value of hard work and trusts me with responsibilities and challenges |
 * Current working as a Data Scientist
-* Trained in Java Full Stack Development
+* Trained in Data Science Tech.
 * 5⭐ on Hackerrank for Python Programming.
 * Python Enthusiast 
-* Frontend - HTML, CSS,Bootstrap, JavaScript, TypeScript, Angular
+* Frontend - HTML, CSS,Bootstrap, JavaScript
 * Database- MySQL
-* Currently working on Generative Ai projects.
+* Currently working on Generative Ai models and projects.
 * Additional skills- Graphics Designing, Content Writing, Video Editing.
 * Still to learn a lot..
 
