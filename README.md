@@ -13,9 +13,9 @@ Working on some good skills to enhance my professional and technical capabilitie
 * Trained in Data Science Tech.
 * 5⭐ on Hackerrank for Python Programming.
 * Python Enthusiast 
-* Frontend - HTML, CSS,Bootstrap, JavaScript
+* Frontend - HTML, CSS
 * Database- MySQL
-* Currently working on Generative Ai models and projects.
+* Currently working on Generative AI models and projects.
 * Additional skills- Graphics Designing, Content Writing, Video Editing.
 * Still to learn a lot..
 
